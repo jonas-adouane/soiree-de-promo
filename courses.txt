@@ -5,3 +5,5 @@ Liste de courses
 - gâteaux au chocolat
 -glaçons
 - serviettes
+-une faucille
+-un marteau
