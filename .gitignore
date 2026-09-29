@@ -1,0 +1,6 @@
+# ce que Git doit ignorer
+ code-wifi.txt
+boruillon.txt
+*.tmp
+code-wifi.txt
+brouillon.txt
